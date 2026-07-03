@@ -33,3 +33,7 @@ Q : Process Noise
 R : Measurement Noise
 
 The use of the Joseph Form covariance update for numerical robustness and the coupled process noise matrix ($Q$) derived from continuous acceleration perturbations makes this approach more refined.
+
+## Root Mean Square Error (RMSE)
+Measurement : 2.030
+Kalman      : 1.150
